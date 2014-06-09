@@ -154,7 +154,6 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -1350,6 +1349,7 @@
 			}
 , 			{
 				"box" : 				{
+					"bgcolor" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-13",
@@ -1364,6 +1364,7 @@
 			}
 , 			{
 				"box" : 				{
+					"fgcolor" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"id" : "obj-8",
 					"maxclass" : "button",
 					"numinlets" : 1,
@@ -1375,6 +1376,7 @@
 			}
 , 			{
 				"box" : 				{
+					"color" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-2",
@@ -1830,6 +1832,7 @@
 			}
 , 			{
 				"box" : 				{
+					"color" : [ 0.0, 0.84, 0.32185, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-30",
@@ -1877,7 +1880,6 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -2012,6 +2014,7 @@
 			}
 , 			{
 				"box" : 				{
+					"bgcolor" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-9",
@@ -2664,6 +2667,7 @@
 			}
 , 			{
 				"box" : 				{
+					"color" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-5",
@@ -4070,6 +4074,7 @@
 			}
 , 			{
 				"box" : 				{
+					"fgcolor" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"id" : "obj-4",
 					"maxclass" : "button",
 					"numinlets" : 1,
@@ -4081,6 +4086,7 @@
 			}
 , 			{
 				"box" : 				{
+					"fgcolor" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"id" : "obj-3",
 					"maxclass" : "button",
 					"numinlets" : 1,
@@ -4092,6 +4098,7 @@
 			}
 , 			{
 				"box" : 				{
+					"color" : [ 0.0, 0.84, 0.161234, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-1",
