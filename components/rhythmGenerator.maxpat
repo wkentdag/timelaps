@@ -62,8 +62,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 542.0, 185.0, 35.0, 20.0 ],
-					"text" : "* 0.5"
+					"patching_rect" : [ 542.0, 185.0, 42.0, 20.0 ],
+					"text" : "* 0.15"
 				}
 
 			}
@@ -403,6 +403,15 @@
 			}
  ],
 		"lines" : [ 			{
+				"patchline" : 				{
+					"destination" : [ "obj-14", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-1", 0 ]
+				}
+
+			}
+, 			{
 				"patchline" : 				{
 					"destination" : [ "obj-16", 0 ],
 					"disabled" : 0,
