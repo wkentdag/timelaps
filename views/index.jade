@@ -1,0 +1,19 @@
+extends layout
+
+block content
+	h1= title
+	p Welcome to #{title}
+
+	#page-wrapper.clearfix
+		h1 HTML5 text editor
+		form#file-form(action='#', method='POST')
+			.field
+				input#filename(type='text' name='filename', placeholder='filename (e.g. isuck.txt')
+			.field
+				textarea#content(name='content', placeholder='type your content here...')
+			.field
+				button(type='submit') save file
+				#messages
+		#files
+			h2 filebrowser
+			ul#file-list
