@@ -5,11 +5,33 @@
 img {
   width: 100%;
 }
+a {
+	color: black;
+}
 
 h1, p {
 }
 
 .text {
   position: fixed;
-  max-width: 800px;
+  width: 100%;
+}
+
+.about {
+	max-width: 800px;
+	float: left;
+}
+
+.info {
+	float: right;
+	max-width: 420px;
+	padding-right: 1%;
+}
+
+.info > p {
+	text-align: right;
+}
+
+p {
+	font-size: 0.8em;
 }
