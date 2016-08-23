@@ -1,4 +1,4 @@
-# timelaps
+# :ocean: timelaps
 
 weather @ lake superior, MN => ambient programmatic [music](https://soundcloud.com/wkd1/sets/lakeforms-tests) in max/msp
 
